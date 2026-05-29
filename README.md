@@ -62,3 +62,22 @@ Linguistic approach:linguistischer Ansatz (Sprachebenen): reformuliere den Text,
 * **Amstad’s FRE (German adaptation)**: Measures ease of reading news-like texts.
 * **Gunning Fog Index**: Estimates years of education required to understand the text.
 
+
+## Holistic prompt: 
+übersetze folgenden Text in Leichte Sprache 
+(translate the following text into Easy Language) 
+mache ihn leichter 
+(make the text easier) 
+mache ihn noch leichter 
+(make the text even easier) 
+
+
+## Linguistic prompt: 
+reformuliere den Text, aber: 
+(reformulate the text but:) 
+ohne unwichtige Informationen  
+(without unimportant information) 
+ohne Nebensätze und mit einfachen syntaktischen Strukturen  
+(without subordinate clauses and with simple syntactic structures) 
+füge Erklärungen für schwierige Wörter hinzu  
+(add explanations of difficult words)
