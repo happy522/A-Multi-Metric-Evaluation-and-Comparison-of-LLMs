@@ -1,6 +1,6 @@
-Prof. Lapshinova: [LinkedIN](https://www.linkedin.com/in/ekaterina-lapshinova-koltunski-45a1942a9)
-Prof. Deilen: [ResearchGate](https://www.researchgate.net/profile/Silvana-Deilen)
-Khushi Pitroda: [LinkedIN](https://www.linkedin.com/in/khushipitroda/)
+Prof. Lapshinova: [Email](lapshinovakoltun@uni-hildesheim.de)
+Prof. Deilen: [Email](silvana.deilen@iued.uni-heidelberg.de)
+Khushi Pitroda: [Email](pitroda@uni-hildesheim.de)
 
 # ChatGPT as a CAT tool in Easy language translation
 
