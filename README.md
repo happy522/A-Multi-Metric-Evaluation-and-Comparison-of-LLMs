@@ -1,4 +1,6 @@
-
+Prof. Lapshinova: [LinkedIN](https://www.linkedin.com/in/ekaterina-lapshinova-koltunski-45a1942a9)
+Prof. Deilen: [ResearchGate](https://www.researchgate.net/profile/Silvana-Deilen)
+Khushi Pitroda: [LinkedIN](https://www.linkedin.com/in/khushipitroda/)
 
 # ChatGPT as a CAT tool in Easy language translation
 
