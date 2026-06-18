@@ -1,6 +1,6 @@
-Prof. Lapshinova: [Email](lapshinovakoltun@uni-hildesheim.de)
-Prof. Deilen: [Email](silvana.deilen@iued.uni-heidelberg.de)
-Khushi Pitroda: [Email](pitroda@uni-hildesheim.de)
+Prof. Lapshinova: lapshinovakoltun@uni-hildesheim.de
+Prof. Deilen: silvana.deilen@iued.uni-heidelberg.de
+Khushi Pitroda: pitroda@uni-hildesheim.de
 
 # ChatGPT as a CAT tool in Easy language translation
 
