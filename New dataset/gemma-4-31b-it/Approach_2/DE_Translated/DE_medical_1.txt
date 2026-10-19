@@ -1,0 +1,18 @@
+EMA empfiehlt den Entzug der Marktzulassung für Tavneos
+Nutzen überwiegt die Behandlungsrisiken nicht mehr
+
+Der Ausschuss für Humanarzneimittel der EMA (CHMP) hat seine Überprüfung des Arzneimittels Tavneos (Avacopan) abgeschlossen und empfohlen, die Marktzulassung des Medikaments in der Europäischen Union zu entziehen, da dessen Nutzen nicht mehr nachweislich die Risiken überwiegt. Tavneos wird zur Behandlung von Erwachsenen mit schwerer, aktiver Granulomatose mit Polyangiitis (GPA) oder mikroskopischer Polyangiitis (MPA) eingesetzt, zwei seltenen entzündlichen Erkrankungen der Blutgefäße.
+
+Die Überprüfung wurde eingeleitet, um neue Informationen zu bewerten, die Fragen zur Datenintegrität der Hauptstudie (die Advocate-Studie) aufwarfen, welche die Marktzulassung des Medikaments in der EU stützte.
+
+In der Advocate-Studie, an der 331 Patienten mit GPA oder MPA teilnahmen, wurde eine 52-wöchige Behandlung mit Tavneos mit einem Placebo (einer Scheinbehandlung) zusammen mit einer 20-wöchigen Gabe von Kortikosteroiden (Medikamente zur Behandlung von Entzündungskrankheiten) verglichen, jeweils zusätzlich zur Standardbehandlung (entweder Rituximab oder ein Schema bestehend aus Cyclophosphamid gefolgt von Azathioprin). Basierend auf den Daten dieser Studie kam die EMA am Ende der Bewertung des Zulassungsantrags zu dem Ergebnis, dass Tavneos bei der Herbeiführung einer Remission bei Patienten mit GPA oder MPA mindestens so wirksam war wie die 20-wöchige hochdosierte Kortikosteroid-Therapie und zu besseren langfristigen Remissionsraten (52 Wochen) als der Vergleichsarm führte.
+
+Nach Prüfung der Gesamtheit der verfügbaren Daten und neuer Informationen darüber, wie die Studiendaten gehandhabt wurden, kam der CHMP zu dem Schluss, dass die Advocate-Studie unter Verstoß gegen die Grundsätze der guten klinischen Praxis (GCP) durchgeführt wurde. Die zum Zeitpunkt der Bewertung des Zulassungsantrags vorgelegten Studiendaten erwiesen sich als unrichtig und irreführend und konnten nicht mehrC mehr als Beleg für die Wirksamkeit von Tavneos herangezogen werden. Unterstützende Daten aus der Zeit nach der Marktzulassung sowie andere Post-hoc-Analysen der Advocate-Studie werden nicht als ausreichend erachtet, um den Nutzen des Medikaments zu belegen.
+
+Der Ausschuss hat daher empfohlen, die Marktzulassung des Medikaments in der EU zu entziehen. Bei seiner Entscheidung berücksichtigte der Ausschuss auch die Ansichten von Patienten- und Gesundheitsfachvertretern sowie schriftliche Stellungnahmen Dritter. Wenn diese Empfehlung von der Europäischen Kommission bestätigt wird, wird Tavneos in der EU nicht mehr zugelassen sein.
+
+Der CHMP empfiehlt, dass keine neuen Patienten mit einer Behandlung mit Tavneos beginnen sollten und dass bestehende Patienten auf geeignete Alternativen umgestellt werden sollten.
+
+Da Tavneos mit einem erhöhten Risiko für medikamentös induzierte Leberschäden (DILI) und dem Vanishing-Bile-Duct-Syndrom (VBDS, eine seltene Erkrankung, bei der die kleinen Gallengänge in der Leber allmählich geschädigt werden und mit der Zeit verschwinden) verbunden ist, einschließlich Fällen mit tödlichem Ausgang, sollte die Leberfunktion von mit Tavneos behandelten Patienten engmaschig überwacht werden, bis die Behandlung dauerhaft beendet ist.
+
+Bei Patienten, die Tavneos weniger als drei Monate vor dem Beenden der Behandlung erhalten haben, sollte die Leberfunktion mindestens alle zwei Wochen überwacht werden, bis drei Monate seit Beginn der Behandlung vergangen sind. Bei Patienten, die Tavneos länger als drei Monate erhalten haben, sollte die Leberfunktion alle vier Wochen für bis zu sechs Monate und danach nach Bedarf überwacht werden. Bei Verdacht auf ein VBDS muss Tavneos sofort abgesetzt werden.
