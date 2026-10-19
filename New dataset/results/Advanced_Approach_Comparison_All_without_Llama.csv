@@ -1,0 +1,17 @@
+Metric,n,Friedman_p,Kendalls_W,Approach_1_mean,Approach_2_mean,Approach_3_mean,Winner,Significant,Winner_better_than
+MATTR,30,0.10717,0.074,0.77,0.773,0.783,Approach_1,False,–
+MTLD,30,0.08208,0.083,67.158,66.248,72.446,Approach_2,False,–
+Zipf,30,0.59893,0.017,5.668,5.644,5.63,Approach_1,False,–
+RareWords,30,0.76008,0.009,3.614,3.704,4.058,Approach_1,False,–
+Surprisal,30,0.00335,0.19,5.66,5.476,5.528,Approach_2,False,–
+Surprisal_SD,30,0.1698,0.059,4.565,4.378,4.568,Approach_2,False,–
+ASL,30,0.09401,0.079,7.567,6.697,7.204,Approach_2,False,–
+LongSent,30,0.13285,0.067,4.441,1.598,2.32,Approach_2,False,–
+Passive,30,0.17939,0.057,5.132,6.57,6.957,Approach_1,False,–
+Genitive,30,0.46272,0.026,0.667,0.771,0.934,Approach_1,False,–
+Subjunctive,30,0.18348,0.057,0.068,0.033,0.024,Approach_3,False,–
+LongWords,30,0.27147,0.043,0.719,0.973,0.988,Approach_1,False,–
+EL_Compliance,30,0.27253,0.043,73.724,75.2,71.981,Approach_2,False,–
+Coverage,30,0.06721,0.09,0.725,0.703,0.727,Approach_3,False,–
+Precision,30,0.14957,0.063,0.634,0.616,0.638,Approach_3,False,–
+NumberRecall,30,0.41439,0.029,59.413,48.159,50.365,Approach_1,False,–

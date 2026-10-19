@@ -1,0 +1,17 @@
+Metric,Friedman_p,Kendalls_W,DeepSeek-V4-Flash_mean,Gemma-4-31B_mean,Llama-3.1-8B_mean,Qwen3.5-397B_mean,Winner,Significant,Winner_better_than
+MATTR,0.00872,0.388,0.782,0.779,0.805,0.758,Qwen3.5-397B,True,Llama-3.1-8B
+MTLD,0.00975,0.38,71.21,67.824,85.269,59.709,Qwen3.5-397B,True,Llama-3.1-8B
+Zipf,0.00021,0.652,5.596,5.66,5.286,5.676,Qwen3.5-397B,True,Llama-3.1-8B
+RareWords,0.00015,0.676,4.804,3.318,10.15,2.991,Qwen3.5-397B,True,Llama-3.1-8B
+Surprisal,0.00872,0.388,5.338,5.383,6.57,5.707,DeepSeek-V4-Flash,False,–
+Surprisal_SD,0.00035,0.616,4.262,4.405,6.688,4.466,DeepSeek-V4-Flash,True,Llama-3.1-8B
+ASL,1e-05,0.837,7.216,7.06,19.029,5.815,Qwen3.5-397B,True,"Gemma-4-31B, Llama-3.1-8B"
+LongSent,2e-05,0.806,3.036,1.567,62.203,0.192,Qwen3.5-397B,True,Llama-3.1-8B
+Passive,0.00013,0.688,5.404,10.235,24.996,4.07,Qwen3.5-397B,True,Llama-3.1-8B
+Genitive,0.00015,0.675,0.785,1.003,3.784,0.525,Qwen3.5-397B,True,Llama-3.1-8B
+Subjunctive,0.06117,0.245,0.098,0.0,0.265,0.0,Gemma-4-31B,False,–
+LongWords,0.00022,0.65,1.456,0.734,6.233,0.73,Qwen3.5-397B,True,Llama-3.1-8B
+EL_Compliance,1e-05,0.856,69.428,69.263,10.964,86.909,Qwen3.5-397B,True,"DeepSeek-V4-Flash, Gemma-4-31B, Llama-3.1-8B"
+Coverage,0.00092,0.548,0.717,0.682,0.881,0.71,Llama-3.1-8B,True,"DeepSeek-V4-Flash, Gemma-4-31B, Qwen3.5-397B"
+Precision,5e-05,0.748,0.634,0.628,0.918,0.587,Llama-3.1-8B,True,"DeepSeek-V4-Flash, Gemma-4-31B, Qwen3.5-397B"
+NumberRecall,0.03843,0.28,50.095,31.429,78.096,62.953,Llama-3.1-8B,False,–
