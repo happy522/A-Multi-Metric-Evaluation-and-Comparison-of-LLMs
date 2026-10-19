@@ -1,0 +1,7 @@
+# New dataset: source texts and model outputs are kept local only
+New dataset/Source_Texts_English/
+New dataset/Source_Texts_German/
+New dataset/deepseek-v4-flash-0731/
+New dataset/gemma-4-31b-it/
+New dataset/meta-llama-3.1-8b-instruct/
+New dataset/qwen3.5-397b-a17b/
