@@ -1,0 +1,11 @@
+Metric,n,Approach_1_mean,Approach_2_mean,Approach_3_mean,Friedman_p,Kendalls_W,Winner,Winner_better_than,Significant_pairs
+TTR,40,0.469,0.494,0.497,0.007546,0.1222,Approach_1,"Approach_2, Approach_3","Approach_1 vs Approach_2 (p=0.031, t-test); Approach_1 vs Approach_3 (p=0.017, t-test)"
+LD,40,0.485,0.491,0.486,0.150607,0.0473,Approach_1,–,–
+WR,40,0.038,0.048,0.05,0.149276,0.0475,Approach_1,–,–
+MDD,40,2.188,2.233,2.345,0.007447,0.1225,Approach_1,Approach_3,"Approach_1 vs Approach_3 (p=0.045, Wilcoxon); Approach_2 vs Approach_3 (p=0.000, Wilcoxon)"
+SI,40,0.21,0.191,0.218,0.057899,0.0712,Approach_2,–,–
+Cross,40,1.287,0.997,0.939,0.063274,0.069,Approach_3,–,–
+WSF,40,6.375,7.694,8.026,0.008871,0.1181,Approach_1,Approach_3,"Approach_1 vs Approach_3 (p=0.000, Wilcoxon)"
+LIX,40,36.842,40.903,42.376,0.002418,0.1506,Approach_1,Approach_3,"Approach_1 vs Approach_3 (p=0.001, Wilcoxon); Approach_2 vs Approach_3 (p=0.043, t-test)"
+FRE,40,64.54,57.942,56.87,0.025349,0.0919,Approach_1,Approach_3,"Approach_1 vs Approach_3 (p=0.000, Wilcoxon)"
+Fog,40,9.66,11.604,12.19,0.001541,0.1619,Approach_1,Approach_3,"Approach_1 vs Approach_3 (p=0.000, Wilcoxon)"

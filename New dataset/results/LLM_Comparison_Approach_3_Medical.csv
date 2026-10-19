@@ -1,0 +1,11 @@
+Metric,n,Friedman_p,Kendalls_W,DeepSeek-V4-Flash_mean,Gemma-4-31B_mean,Llama-3.1-8B_mean,Qwen3.5-397B_mean,Winner,Posthoc_result,Winner_better_than,Significant_pairs
+TTR,5,0.032658,0.584,0.472,0.576,0.45,0.428,Qwen3.5-397B,Not Significant,–,–
+LD,5,0.117597,0.392,0.487,0.488,0.489,0.508,DeepSeek-V4-Flash,Not Significant,–,–
+WR,5,0.005587,0.84,0.067,0.028,0.092,0.021,Qwen3.5-397B,Not Significant,–,–
+MDD,5,0.00357,0.904,2.142,2.006,3.319,1.695,Qwen3.5-397B,Not Significant,–,–
+SI,5,0.013588,0.712,0.185,0.158,0.454,0.09,Qwen3.5-397B,Not Significant,–,–
+Cross,5,0.026264,0.616,0.502,1.058,1.998,0.354,Qwen3.5-397B,Not Significant,–,–
+WSF,5,0.00357,0.904,8.398,5.854,13.572,5.738,Qwen3.5-397B,Not Significant,–,–
+LIX,5,0.002851,0.936,42.932,34.03,62.708,33.158,Qwen3.5-397B,Not Significant,–,–
+FRE,5,0.00357,0.904,55.35,68.028,27.732,67.68,Gemma-4-31B,Not Significant,–,–
+Fog,5,0.00357,0.904,12.134,9.61,21.642,9.174,Qwen3.5-397B,Not Significant,–,–

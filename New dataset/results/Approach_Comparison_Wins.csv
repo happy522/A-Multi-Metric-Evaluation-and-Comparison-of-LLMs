@@ -1,0 +1,7 @@
+,,DeepSeek-V4-Flash,Gemma-4-31B,Llama-3.1-8B,Qwen3.5-397B,All models,All without Llama
+Wins,Approach_1,2,10,9,7,8,3
+Wins,Approach_2,8,0,1,0,1,6
+Wins,Approach_3,0,0,0,3,1,1
+Significant wins,Approach_1,0,0,6,0,6,1
+Significant wins,Approach_2,2,0,0,0,0,1
+Significant wins,Approach_3,0,0,0,0,0,0

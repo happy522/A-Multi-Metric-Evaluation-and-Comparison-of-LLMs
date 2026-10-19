@@ -1,0 +1,11 @@
+Metric,n,Approach_1_mean,Approach_2_mean,Approach_3_mean,Friedman_p,Kendalls_W,Winner,Winner_better_than,Significant_pairs
+TTR,10,0.422,0.436,0.45,0.045049,0.31,Approach_1,–,–
+LD,10,0.493,0.495,0.488,0.496585,0.07,Approach_3,–,–
+WR,10,0.027,0.032,0.024,0.091197,0.2395,Approach_3,–,–
+MDD,10,1.638,1.674,1.699,0.301194,0.12,Approach_1,–,–
+SI,10,0.041,0.066,0.076,0.122456,0.21,Approach_1,–,–
+Cross,10,0.394,0.611,0.207,0.148637,0.1906,Approach_3,–,–
+WSF,10,5.027,5.25,5.416,0.40657,0.09,Approach_1,–,–
+LIX,10,31.33,31.704,32.208,0.67032,0.04,Approach_1,–,–
+FRE,10,71.571,70.71,70.038,0.67032,0.04,Approach_1,–,–
+Fog,10,7.606,7.821,8.192,0.301194,0.12,Approach_1,–,–
